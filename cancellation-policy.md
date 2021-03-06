@@ -28,7 +28,7 @@ We may cancel accounts if they have been inactive for an extended period:
   * For Supportress: 30 days after a trial has expired without being upgraded
 * For frozen accounts: 180 days after being frozen due to billing failures
 
-We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](terms-of-service.md). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](use-restrictions.md).
+We also retain the right to suspend or terminate accounts for any reason at any time, as outlined in our [Terms of Service](terms-of-service/). In practice, this generally means we will cancel your account without notice if we have evidence that you are using our products to engage in [abusive behavior](use-restrictions.md).
 
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

@@ -4,8 +4,8 @@ description: 'Last updated: Saturday, 6 March 2021'
 
 # Policies
 
-* [Terms of Service](terms-of-service.md)
-  * [Limits](limits.md)
+* [Terms of Service](terms-of-service/)
+  * [Limits](terms-of-service/limits.md)
 * [Privacy policy](privacy-policy.md)
   * [Company subprocessors](company-subprocessors.md)
   * [Supportress subprocessors](supportress-subprocessors.md)

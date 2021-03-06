@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Policies](README.md)
-* [Terms of service](terms-of-service.md)
+* [Terms of service](terms-of-service/README.md)
+  * [Limits](terms-of-service/limits.md)
 * [Cancellation policy](cancellation-policy.md)
 * [Taxes](taxes.md)
-* [Limits](limits.md)
 * [Privacy policy](privacy-policy.md)
 * [Supportress subprocessors](supportress-subprocessors.md)
 * [Until the end of the internet](until-the-end-of-the-internet.md)
