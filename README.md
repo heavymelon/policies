@@ -6,9 +6,9 @@ description: 'Last updated: Saturday, 6 March 2021'
 
 * [Terms of Service](terms-of-service/)
   * [Limits](terms-of-service/limits.md)
-* [Privacy policy](privacy-policy.md)
-  * [Company subprocessors](company-subprocessors.md)
-  * [Supportress subprocessors](supportress-subprocessors.md)
+* [Privacy policy](privacy-policy/)
+  * [Company subprocessors](privacy-policy/company-subprocessors.md)
+  * [Supportress subprocessors](privacy-policy/supportress-subprocessors.md)
 * [Security overview](security-overview.md)
 * [Use restrictions](use-restrictions.md)
 * [How we handle abusive usage](how-we-handle-abusive-usage.md)
