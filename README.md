@@ -21,3 +21,7 @@ description: 'Last updated: Saturday, 6 March 2021'
 HeavyMelon may update this policy once in a blue moon. You can see a history of the changes to our policies [here](https://github.com/heavymelon/policies/commits). We will notify customers about significant changes by emailing the account owner or by placing a prominent notice on our site or application.
 {% endhint %}
 
+{% hint style="info" %}
+If you have any questions about our policies don't hesitate to [contact us](mailto:legal@heavymelon.com).
+{% endhint %}
+
