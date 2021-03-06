@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Policies](README.md)
+* [Introduction](README.md)
 * [Terms of service](terms-of-service/README.md)
   * [Limits](terms-of-service/limits.md)
 * [Privacy policy](privacy-policy/README.md)

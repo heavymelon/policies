@@ -2,7 +2,7 @@
 description: 'Last updated: Saturday, 6 March 2021'
 ---
 
-# Policies
+# Introduction
 
 * [Terms of Service](terms-of-service/)
   * [Limits](terms-of-service/limits.md)
