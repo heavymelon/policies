@@ -24,7 +24,7 @@ If your business is registered with VIES, you can enter it in your billing detai
 
 ## Updating your billing address
 
-If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within [your Supportress account](../billing/manage-subscription.md).
+If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within [your Supportress account](https://docs.supportress.com/billing/manage-subscription).
 
 ## We are here to help
 

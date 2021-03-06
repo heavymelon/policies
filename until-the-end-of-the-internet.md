@@ -12,13 +12,13 @@ We’re dedicated to supporting our products forever \(or until the last custome
 
 Here’s what that means:
 
-* The day you become a customer of any of our products, you can trust that HeavyMelon will be around. In the event that the HeavyMelon product you’re using enters a legacy phase you’ll be able to keep using it indefinitely, assuming you continue to abide by our [terms of service](terms-of-service/) and keep your subscription active. We work hard to keep supporting existing features unless it becomes technically impossible to do so for reasons out of our control \(e.g. changes to 3rd party integrations that makes a feature incompatible or browser upgrades that leave a feature behind\).
-* Your data is safe. Regardless of status, all of our products receive the same rigorous care when it comes to [security](security-overview.md) and [privacy](privacy-policy/). While we may not add new features to legacy products we’ll continue to apply the latest security updates; maintain the infrastructure that keeps them safe, fast and secure; and continue to offer [customer support](mailto:support@heavymelon.com).
+* The day you become a customer of any of our products, you can trust that HeavyMelon will be around. In the event that the HeavyMelon product you’re using enters a legacy phase you’ll be able to keep using it indefinitely, assuming you continue to abide by our [terms of service](terms-of-service.md) and keep your subscription active. We work hard to keep supporting existing features unless it becomes technically impossible to do so for reasons out of our control \(e.g. changes to 3rd party integrations that makes a feature incompatible or browser upgrades that leave a feature behind\).
+* Your data is safe. Regardless of status, all of our products receive the same rigorous care when it comes to [security](security-overview.md) and [privacy](privacy-policy.md). While we may not add new features to legacy products we’ll continue to apply the latest security updates; maintain the infrastructure that keeps them safe, fast and secure; and continue to offer [customer support](mailto:support@heavymelon.com).
 * This is our life’s work — we’re in this for the long haul. In the unforeseen and unanticipated event that the company or one of our products is acquired by another company or spun-off into a separate company, we’ll do everything in our power to make sure the product and this promise live on.
 
 ## Changes & questions
 
-HeavyMelon may update this policy once in a blue moon. You can see a history of the changes to our policies [here](https://github.com/heavymelon/docs/commits/main/legal). We will notify customers about significant changes by emailing the account owner or by placing a prominent notice on our site.
+HeavyMelon may update this policy once in a blue moon. You can see a history of the changes to our policies [here](https://github.com/heavymelon/policies/commits). We will notify customers about significant changes by emailing the account owner or by placing a prominent notice on our site.
 
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

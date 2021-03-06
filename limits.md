@@ -4,7 +4,7 @@ description: Soft limits
 
 # Limits
 
-This page explains how we handle varous limits in our applications and services. In all cases, we'll give you choices to move forward. We don't want your inconvienience. What we are looking for is to make our business sustainable while keeping fair subscription prices. We reserve the right to suspend your account if we can't find a solution and our infrustructure suffers from a usage pattern.
+This page explains how we handle varous limits in our applications and services. In all cases, we'll give you choices to move forward. We don't want your inconvienience. What we are looking for is to make our business sustainable while keeping fair subscription prices.
 
 ## Supportress
 
@@ -28,5 +28,8 @@ We don't do anything drastic. However we will let you know and ask you to upgrad
 
 ### Storage
 
-We don't have a hard limit. However, if we see excessive usage of storage for one of your organizations on Supportress, we may contact you. We reserve the right to ask you to either change your usage patterns. If that's not convenience, we can give you a quote that will increase your monhtly subscription.
+We don't have a hard limit. However, if we see excessive usage of storage for one of your organizations on Supportress, we may contact you. We reserve the right to ask you to change your usage patterns. If that's not convenient, we can give you a quote that will increase your monhtly subscription.
 
+### What if we cannot agree?
+
+We'll do our best to accommodate you. But we reserve the right to suspend your account if we can't find a solution and our infrustructure suffers from a usage pattern.

@@ -69,7 +69,7 @@ Our default practice is to not access your information. The only times we’ll e
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding** [**restricted uses**](../use-restrictions.md)**.** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
+**To investigate, prevent, or take action regarding** [**restricted uses**](use-restrictions.md)**.** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 
 **When required under applicable law.**
 
@@ -77,7 +77,7 @@ HeavyMelon, PC is an EU company based in Greece. Some data infrastructure are lo
 
 * If Greek or EU law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the EU approaches HeavyMelon with a request, our default stance is to refuse unless the Greek government or the EU authorities compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement.
 * Similarly, if HeavyMelon receives a request to preserve data, we refuse unless compelled by the law. In this situation, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
-* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [Supportress](../../account/export-your-data.md).
+* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by following these instructions for [Supportress](https://docs.supportress.com/account/export-your-data).
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 
 Finally, if HeavyMelon, PC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
@@ -107,7 +107,7 @@ If you are in the EU, you can identify your specific authority to file a complai
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
 
-For Supportress, most data are not encrypted while they live in our database \(since it needs to be ready to send to you when you need it\), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security-overview.md).
+For Supportress, most data are not encrypted while they live in our database \(since it needs to be ready to send to you when you need it\), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](security-overview.md).
 
 {% hint style="info" %}
 Our certified legal team has overseen all GDPR related policies, and which we review every year.
@@ -117,11 +117,11 @@ Our certified legal team has overseen all GDPR related policies, and which we re
 
 In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days \(it varies a little by product\). After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome so if you change your mind you’ll need to do so before your data are deleted from our active servers.
 
-We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation-policy.md) for more details.
+We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](cancellation-policy.md) for more details.
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://blog.heavymelon.com).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://heavymelon.blog).
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [legal@heavymelon.com](mailto:legal@heavymelon.com) and we’ll be happy to answer them!
 
