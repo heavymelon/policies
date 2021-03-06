@@ -1,8 +1,8 @@
-# Terms of service
+---
+description: 'Last updated: Saturday, 6 March 2021'
+---
 
-{% hint style="info" %}
-Last updated: Saturday, 27 February 2021
-{% endhint %}
+# Terms of service
 
 From everyone at HeavyMelon, thank you for using our products! We build them to help you do your best work. There are many people potentially using HeavyMelon products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -14,7 +14,7 @@ We may update these Terms of Service in the future. Whenever we make a significa
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
-If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://heavymelon.com/about), [how we work](handbook.heavymelon.com), and keeping an open door to your [feedback](mailto:support@heavymelon.com).
+If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://heavymelon.com/about), [how we work](https://github.com/heavymelon/policies/tree/ca0312114152da0ccd1817989eff3fda3a75e4f9/handbook.heavymelon.com), and keeping an open door to your [feedback](mailto:support@heavymelon.com).
 
 ## Account terms
 
@@ -50,13 +50,11 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage and [limits](limits.md) of other customers of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](security-overview.md) for full details and our [Security Response page](security-response.md) for how to report a security incident or threat.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that HeavyMelon may process your data as described in our [Privacy Policy](privacy-policy.md) and for no other purpose. We as humans can access your data for the following reasons:
-
-* **To help you with support requests you make.** We'll ask for express consent before accessing your account.
-* **To safeguard HeavyMelon.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](how-we-handle-abusive-usage.md).
-* **To the extent required by applicable law.** As an EU \(Greece\) company with all data infrastructure located in the EU and the US, we only preserve or share customer data if compelled by an EU government authority with a legally binding order. If a non-EU authority approaches HeavyMelon for assistance, our default stance is to refuse unless the order has been approved by the Greek or EU government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism.
-
-1. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Supportress](supportress-subprocessors.md).
-2. We process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](privacy-policy.md), and [other policies](README.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements and not use HeavyMelon Services in a way that violates the regulations.
+5. **To help you with support requests you make.** We'll ask for express consent before accessing your account.
+6. **To safeguard HeavyMelon.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](how-we-handle-abusive-usage.md).
+7. **To the extent required by applicable law.** As an EU \(Greece\) company with all data infrastructure located in the EU and the US, we only preserve or share customer data if compelled by an EU government authority with a legally binding order. If a non-EU authority approaches HeavyMelon for assistance, our default stance is to refuse unless the order has been approved by the Greek or EU government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism.
+8. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Supportress](supportress-subprocessors.md).
+9. We process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](privacy-policy.md), and [other policies](./). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements and not use HeavyMelon Services in a way that violates the regulations.
 
 ### Copyright and content ownership
 
@@ -96,6 +94,6 @@ If you have a question about any of the Terms of Service, please [contact our Su
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/terms/index.md) _\_— \_July 10, 2020._
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/terms/index.md) _\_— \_July 10, 2020.\_
 {% endhint %}
 
