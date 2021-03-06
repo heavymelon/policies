@@ -33,4 +33,3 @@ We don't have a hard limit. However, if we see excessive usage of storage for on
 ### What if we cannot agree?
 
 We'll do our best to accommodate you. But we reserve the right to suspend your account if we can't find a solution and our infrustructure suffers from a usage pattern.
-

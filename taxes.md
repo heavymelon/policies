@@ -39,6 +39,6 @@ Please contact [our Support team](mailto:accounts@heavymelon.supportress.com) if
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/7e38d54778c0e6cfb5355e3eb4e0f097aee33572/taxes/index.md) _\_— \_September 29, 2020.\_
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/7e38d54778c0e6cfb5355e3eb4e0f097aee33572/taxes/index.md) _\_— \_September 29, 2020._
 {% endhint %}
 

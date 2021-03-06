@@ -71,6 +71,6 @@ For other cases, we will consider good faith appeals sent to [legal@heavymelon.c
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/abuse/how-we-handle/index.md) _\_— April \_13, 2020.\_
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/abuse/how-we-handle/index.md) _\_— April \_13, 2020._
 {% endhint %}
 

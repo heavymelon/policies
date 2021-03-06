@@ -23,6 +23,6 @@ HeavyMelon may update this policy once in a blue moon. You can see a history of 
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/until-the-end-of-the-internet/index.md) _\_— \_April 23, 2020.\_
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/until-the-end-of-the-internet/index.md) _\_— \_April 23, 2020._
 {% endhint %}
 

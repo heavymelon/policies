@@ -38,6 +38,6 @@ You can notify us of either copyright infringement claims or DMCA counter-notifi
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/11c9e03ef1cecd180c899e529083a7309679d712/copyright/index.md) _\_— \_July 30, 2020.\_
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/11c9e03ef1cecd180c899e529083a7309679d712/copyright/index.md) _\_— \_July 30, 2020._
 {% endhint %}
 

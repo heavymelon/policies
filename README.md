@@ -7,7 +7,7 @@ description: 'Last updated: Saturday, 6 March 2021'
 * [Terms of Service](terms-of-service.md)
   * [Limits](limits.md)
 * [Privacy policy](privacy-policy.md)
-  * [Company subprocessors](https://github.com/heavymelon/policies/tree/ca0312114152da0ccd1817989eff3fda3a75e4f9/company-processors.md)
+  * [Company subprocessors](company-subprocessors.md)
   * [Supportress subprocessors](supportress-subprocessors.md)
 * [Security overview](security-overview.md)
 * [Use restrictions](use-restrictions.md)
