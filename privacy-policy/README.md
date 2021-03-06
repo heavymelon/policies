@@ -100,7 +100,7 @@ If you are in the EU, you can identify your specific authority to file a complai
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
 
-For Supportress, most data are not encrypted while they live in our database \(since it needs to be ready to send to you when you need it\), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security-overview.md).
+For Supportress, most data are not encrypted while they live in our database \(since it needs to be ready to send to you when you need it\), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security-overview/).
 
 {% hint style="info" %}
 Our certified legal team has overseen all GDPR related policies, and which we review every year.

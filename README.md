@@ -9,7 +9,7 @@ description: 'Last updated: Saturday, 6 March 2021'
 * [Privacy policy](privacy-policy/)
   * [Company subprocessors](privacy-policy/company-subprocessors.md)
   * [Supportress subprocessors](privacy-policy/supportress-subprocessors.md)
-* [Security overview](security-overview.md)
+* [Security overview](security-overview/)
 * [Use restrictions](use-restrictions.md)
 * [How we handle abusive usage](how-we-handle-abusive-usage.md)
 * [Cancellation policy](cancellation-policy.md)
