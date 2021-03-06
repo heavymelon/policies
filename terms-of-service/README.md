@@ -28,8 +28,9 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
 2. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation-policy.md) for more details.
 3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For other upgrades or downgrades in plan level, the new rate starts from the next billing cycle.
-4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-5. We process refunds according to our [Fair Refund policy](../refund-policy.md).
+4. We are a European Union based company, and charges are in **Euros \(EUR — € —** 💶 **\)**.
+5. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
+6. We process refunds according to our [Fair Refund policy](../refund-policy.md).
 
 ## Cancellation and Termination
 
